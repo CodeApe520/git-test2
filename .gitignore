@@ -6,6 +6,7 @@
 *.iml
 out
 gen
+*.xml
 /.apt_generated/
 /.classpath
 /.factorypath
